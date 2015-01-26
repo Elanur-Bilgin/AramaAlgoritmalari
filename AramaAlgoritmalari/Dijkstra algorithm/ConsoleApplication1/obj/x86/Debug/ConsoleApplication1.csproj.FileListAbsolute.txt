@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Dijkstra algorithm\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ASUS\Desktop\Dijkstra algorithm\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ASUS\Desktop\Dijkstra algorithm\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\ASUS\Desktop\Dijkstra algorithm\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\ASUS\Desktop\Dijkstra algorithm\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Dijkstra algorithm\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Dijkstra algorithm\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

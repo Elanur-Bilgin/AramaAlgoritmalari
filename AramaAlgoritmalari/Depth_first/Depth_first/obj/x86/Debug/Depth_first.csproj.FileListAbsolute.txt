@@ -1,0 +1,10 @@
+c:\users\asus\desktop\Depth_first\Depth_first\bin\Debug\Depth_first.exe
+c:\users\asus\desktop\Depth_first\Depth_first\bin\Debug\Depth_first.pdb
+c:\users\asus\desktop\Depth_first\Depth_first\obj\x86\Debug\Depth_first.exe
+c:\users\asus\desktop\Depth_first\Depth_first\obj\x86\Debug\Depth_first.pdb
+C:\Users\ASUS\Desktop\Depth_first\Depth_first\obj\x86\Debug\Depth_first.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Depth_first\Depth_first\obj\x86\Debug\Depth_first.exe
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Depth_first\Depth_first\obj\x86\Debug\Depth_first.pdb
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Depth_first\Depth_first\bin\Debug\Depth_first.exe
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Depth_first\Depth_first\bin\Debug\Depth_first.pdb
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Depth_first\Depth_first\obj\x86\Debug\Depth_first.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+c:\users\asus\desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\asus\desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\asus\desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+c:\users\asus\desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\ASUS\Desktop\Prim's MST\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\ASUS\Desktop\Prim's MST\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\ASUS\Desktop\Prim's MST\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ASUS\Desktop\Prim's MST\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ASUS\Desktop\Prim's MST\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Prim's MST\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Prim's MST\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Prim's MST\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Prim's MST\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Prim's MST\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

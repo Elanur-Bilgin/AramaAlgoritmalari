@@ -1,0 +1,10 @@
+c:\users\asus\desktop\Heap\Heap\bin\Debug\Heap.exe
+c:\users\asus\desktop\Heap\Heap\bin\Debug\Heap.pdb
+c:\users\asus\desktop\Heap\Heap\obj\x86\Debug\Heap.exe
+c:\users\asus\desktop\Heap\Heap\obj\x86\Debug\Heap.pdb
+C:\Users\ASUS\Desktop\Heap\Heap\obj\x86\Debug\Heap.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Heap\Heap\obj\x86\Debug\Heap.exe
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Heap\Heap\obj\x86\Debug\Heap.pdb
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Heap\Heap\bin\Debug\Heap.exe
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Heap\Heap\bin\Debug\Heap.pdb
+C:\Users\ASUS\Desktop\05110000040-ElenurBİLGİN\Heap\Heap\obj\x86\Debug\Heap.csprojResolveAssemblyReference.cache
